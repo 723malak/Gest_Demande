@@ -1,0 +1,31 @@
+{
+  "menu": [
+    {
+      "url": "/",
+      "name": "Dashboard",
+      "icon": "menu-icon tf-icons bx bx-home-circle",
+      "slug": "dashboard-analytics"
+    },
+    {
+      "url": "/demandes/ajout",
+      "name": "Ajouter une demande",
+      "icon": "menu-icon tf-icons bx bx-plus-circle",
+         "slug": "demande-ajout"
+  },
+    {
+      "url": "/demandes/list",
+      "name": "Mes demandes",
+      "slug": "demande-list",
+      "icon": "menu-icon tf-icons bx bx-list-ul"
+
+    },
+    {
+      "url": "/demandes/list",
+      "name": "Archive des demandes",
+      "slug": "demande-list",
+      "icon": "menu-icon tf-icons bx bxs-archive"
+    }
+
+  ]
+}
+ 
